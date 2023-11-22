@@ -9,8 +9,8 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/MikhalchenkoD/DocuSketch.git
-    cd DocuSketch
+    git clone https://github.com/MikhalchenkoD/test-task-docusketch.git
+    cd test-task-docusketch
     ```
     
 2. Запуск скрипта для контроля потребления памяти:
